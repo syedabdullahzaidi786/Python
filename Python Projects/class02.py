@@ -1,0 +1,5 @@
+print("hello world",7 ,45)
+print(6*3)
+print(6/3)
+print(6+3)
+print(6-3)
